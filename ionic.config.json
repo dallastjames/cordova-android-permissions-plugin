@@ -1,0 +1,7 @@
+{
+  "name": "cap-plugins",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
